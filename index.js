@@ -1,1 +1,1 @@
-
+const contactsOperations = require("./contacts");
